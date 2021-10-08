@@ -1,0 +1,87 @@
+.App
+{
+	text-align: center;
+}
+
+.deakin_green
+{
+	background-color: #0D8572;
+}
+
+.seventy_percent_width
+{
+	width: 70%;
+}
+
+.centered
+{
+	text-align: center;
+}
+
+.tb_margin
+{
+	margin: 5px auto;
+}
+
+.tb_padding
+{
+	padding: 5px 0;
+}
+
+.btn
+{
+	width: 15em;
+}
+
+/*Navbar*/
+nav
+{
+	margin: 5px auto;
+	padding: 5px 0;
+}
+
+nav a
+{
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+}
+
+nav a:hover
+{
+	color: white;
+	padding: 10px;
+	background-color: #C74298;
+}
+
+/*Footer*/
+.footer *
+{
+	margin: 0 5px;
+	height: 25px;
+}
+
+.footer .ui.label
+{
+	margin: 0 5px;
+	color: white;
+	background-color: #0D8572;
+}
+
+.footer .ui.button
+{
+	padding: 0 5px;
+}
+
+.footer .ui.icon.button
+{
+	padding: 0 5px;
+}
+
+.form_content
+{
+	color: white;
+	text-align: left;
+	padding: 5px 5px;
+	margin: 5px auto;
+}
